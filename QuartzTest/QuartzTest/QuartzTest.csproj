@@ -66,8 +66,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Job\LogJob.cs" />
-    <Compile Include="LoggingConfiguration.cs" />
-    <Compile Include="LoggingContext.cs" />
     <Compile Include="Model\Log.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
